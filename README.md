@@ -5,6 +5,7 @@
 
 Version Control: A system that records changes to a file or set of files over time. It allows you to revert files to a previous state, compare changes over time, and collaborate with others without overwriting each other's work.
 GitHub: A popular platform for hosting and managing Git repositories, providing tools for collaboration, code review, and project management. It’s widely used due to its ease of use, integration with other tools, and strong community support.
+
 Benefits of Version Control:
 
 Maintains Project Integrity: Tracks history, avoids conflicts, and allows safe experimentation with branches.
